@@ -1,4 +1,4 @@
-# Monitoring-Students-in-a-Virtual-Classroom
+# Using AI to Monitor-Students-Activities-in-a-Virtual-Classroom
 
 ## ARE YOU HAPPY WITH MY LECTURE? - UNCOVERING THE TRUTH
 
